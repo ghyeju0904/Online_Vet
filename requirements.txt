@@ -1,0 +1,17 @@
+# 웹 자동화 (크롬 브라우저 제어)
+selenium==4.35.0
+
+# 크롬 드라이버 자동 설치/관리
+webdriver-manager==4.0.2
+
+# HTML 파싱
+beautifulsoup4==4.13.5 
+
+# 결과 저장(CSV 등), 간단 가공
+pandas==2.3.2
+
+
+requests==2.32.5
+
+# 유튜브 API
+youtube-transcript-api==0.6.2
